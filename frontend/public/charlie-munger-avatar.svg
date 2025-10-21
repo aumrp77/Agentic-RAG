@@ -1,0 +1,8 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="#f0f0f0"/>
+  <circle cx="100" cy="80" r="40" fill="#d0d0d0"/>
+  <rect x="60" y="120" width="80" height="60" rx="10" fill="#d0d0d0"/>
+  <text x="100" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#666">
+    Charlie Munger
+  </text>
+</svg>
